@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "151543760629",
+    "project_id": "weddingapp-ee5ed",
+    "storage_bucket": "weddingapp-ee5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151543760629:android:a797614b651b4822b2a7bc",
+        "android_client_info": {
+          "package_name": "Wedding.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151543760629-gb8t9uin4cakntd264vc6hpk39ete2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9kR-aBGAuBfl8Ek9uil3dn-LSJiOqNzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151543760629-gb8t9uin4cakntd264vc6hpk39ete2d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151543760629-4361jami3a6ff3pjoefsplhchktgjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.weddingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151543760629:android:5c7610c9bb8d1cfcb2a7bc",
+        "android_client_info": {
+          "package_name": "com.flutterflow.weddingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151543760629-gb8t9uin4cakntd264vc6hpk39ete2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9kR-aBGAuBfl8Ek9uil3dn-LSJiOqNzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151543760629-gb8t9uin4cakntd264vc6hpk39ete2d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151543760629-4361jami3a6ff3pjoefsplhchktgjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.weddingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151543760629:android:905ef31e26f14937b2a7bc",
+        "android_client_info": {
+          "package_name": "com.mycompany.weddingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151543760629-gb8t9uin4cakntd264vc6hpk39ete2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9kR-aBGAuBfl8Ek9uil3dn-LSJiOqNzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151543760629-gb8t9uin4cakntd264vc6hpk39ete2d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151543760629-4361jami3a6ff3pjoefsplhchktgjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.weddingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

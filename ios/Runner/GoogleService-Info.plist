@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>151543760629-hdr8it56vcqhb7oksa3jn9a3q5n60phi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.151543760629-hdr8it56vcqhb7oksa3jn9a3q5n60phi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQaPdtuqW6rCkG-ST_HF_Bkl1W6TZ5pkc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>151543760629</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Wedding.App</string>
+	<key>PROJECT_ID</key>
+	<string>weddingapp-ee5ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weddingapp-ee5ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:151543760629:ios:b87d09ad6ca5377ab2a7bc</string>
+</dict>
+</plist>
